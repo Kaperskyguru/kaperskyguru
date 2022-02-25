@@ -40,3 +40,6 @@ I create technical content (on my [Blog](https://masteringbackend.com/), and [Yo
 - [Twitter](https://twitter.com/kaperskyguru)
 - [Instagram](https://www.instagram.com/kaperskyguru/)
 - [LinkedIn](https://linkedin.com/in/solomoneseme)
+
+![Visitor Count](https://profile-counter.glitch.me/{Kaperskyguru}/count.svg)
+
