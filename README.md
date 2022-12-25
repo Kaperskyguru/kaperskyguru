@@ -41,6 +41,10 @@ I create technical content (on my [Blog](https://masteringbackend.com/?source=gi
 - [Instagram](https://www.instagram.com/kaperskyguru/)
 - [LinkedIn](https://linkedin.com/in/solomoneseme)
 
+### Download My Resume
+
+[Click here to download my resume](https://github.com/Kaperskyguru/kaperskyguru/blob/main/Solomon_Eseme_New_Resume_Dec_2022.pdf)
+
 ### Visitors Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{Kaperskyguru}/count.svg)
