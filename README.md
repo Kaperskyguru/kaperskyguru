@@ -27,7 +27,7 @@ I create technical content (on my [Blog](https://masteringbackend.com/?source=gi
 
 ### Products 🌻
 
-- [Masteringbackend Academy](https://academy.masteringbackend.com?source=github)
+- [Masteringbackend Academy](https://masteringbackend.com/academy?source=github)
 - [Contentre](https://contentre.io?source=github)
 - [Profaily](https://profaily.com?source=github)
 
